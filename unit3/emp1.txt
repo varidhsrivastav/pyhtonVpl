@@ -1,0 +1,6 @@
+Name;Age;Profession
+varidh;24;Enginner
+Minesh;25;Enginner
+vidit;24;dotor
+suhas;30;Doctor
+Turbo;40;Teacher
