@@ -1,0 +1,17 @@
+{
+    "AAA": {
+        "age": 23,
+        "children": null,
+        "married": true
+    },
+    "BBB": {
+        "age": 45,
+        "children": true,
+        "married": true
+    },
+    "XXX": {
+        "age": 33,
+        "children": null,
+        "married": false
+    }
+}

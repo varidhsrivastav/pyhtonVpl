@@ -1,0 +1,22 @@
+{
+    "AAA":{
+        "number":"+91 99999392",
+        "age":"30",
+        "address":"11, 4th main sri avri enclave banashakari"
+    },
+    "BBB":{
+        "number":"+91 123456789",
+        "age":"32",
+        "address":"11, 4th main sri avri SHELTERS banashakari"
+    },
+    "CCC":{
+        "number":"+91 9876543211",
+        "age":"42",
+        "address":"11, 4th main HOSTEL banashakari"
+    },
+    "DDD":{
+        "number":"+91 36746734373",
+        "age":"42",
+        "address":"11, 4th main banashakari"
+    }
+}
